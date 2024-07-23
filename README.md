@@ -1,2 +1,3 @@
-# BayesianModeling
+## BayesianModeling
+
 Bayesian Modeling with Probflow
